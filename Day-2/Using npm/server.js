@@ -1,4 +1,4 @@
-
+// Before running this file run -> 1> npm install -> (to install packages) , 2> node server.js -> (to run the file)
 const http = require("http");
 
 const server = http.createServer((req,res)=>{
